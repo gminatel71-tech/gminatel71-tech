@@ -8,7 +8,7 @@ Computer Scientist passionate about building efficient solutions and constantly 
 - 🎓 Background in Computer Science
 - 💻 Focused on software development, IT infrastrucuture and problem solving
 - 🌱 Always learning something new...
-- 📫 Reach me at: [LinkedIn]([www.linkedin.com/in/gabriel-gibertone-minatel-335b943a6](https://www.linkedin.com/in/gabriel-gibertone-minatel-335b943a6/))
+- 📫 Reach me at: https://www.linkedin.com/in/gabriel-gibertone-minatel-335b943a6/
 
 ## 🛠️ Technologies & Tools
 
