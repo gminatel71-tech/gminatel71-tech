@@ -36,7 +36,7 @@ Computer Scientist passionate about building efficient solutions and constantly 
 
 ## 📌 Featured Projects
 
-- **[Data Structure](https://github.com/gminatel71-tech/Projeto-Estrutura-De-Dados-cpp)** — studying data structure and how it works in C++.
+- **[Data Structure](https://github.com/gminatel71-tech/Projeto-Estrutura-De-Dados-cpp)** — studying data structure and how it works with C++.
 
 ---
 
