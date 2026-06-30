@@ -31,7 +31,6 @@ Computer Scientist passionate about building efficient solutions and constantly 
 
 ## 📊 GitHub Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gminatel71-tech&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gminatel71-tech&layout=compact)
 
 ## 📌 Featured Projects
